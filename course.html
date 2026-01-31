@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Course Details</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <h2>Learnify</h2>
+  <div>
+    <a href="index.html">Courses</a>
+    <a href="progress.html">Progress</a>
+  </div>
+</nav>
+
+<section class="course-detail">
+  <h1 id="courseTitle"></h1>
+
+  <div class="video-container">
+    <iframe id="courseVideo"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <button class="btn" onclick="updateProgress()">Mark as Completed</button>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
