@@ -82,3 +82,6 @@ Successfully fulfills the requirements of CODTECH Internship Task-4
 Serves as a strong front-end UI project for a GitHub portfolio
 
 OUTPUT:
+<img width="2879" height="1250" alt="Image" src="https://github.com/user-attachments/assets/bb4e1221-b4b9-4403-85cc-f003b1cd1e1e" />
+
+<img width="2860" height="913" alt="Image" src="https://github.com/user-attachments/assets/b84958f6-b3f3-4a77-b13a-90d68f5df92c" />
